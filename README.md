@@ -1,10 +1,12 @@
 # InDevelopIn - Elevating Businesses with Cutting-Edge IT Solutions 💻🚀
+![Banner Image](https://github.com/InDevelopIn/InDevelopIn/blob/main/logo.svg) 
+
 
 Welcome to InDevelopIn, your trusted partner for IT innovation and business growth. Our dedicated team is committed to providing transformative solutions that elevate your operations. From strategic IT consulting to seamless implementation, we bring clarity and efficiency to the heart of your business.
 
-![Banner Image](https://github.com/InDevelopIn/InDevelopIn/blob/main/logo.svg) 
 
-<img align='right' src="https://github.com/InDevelopIn/InDevelopIn/blob/main/logo.svg" width="350">
+
+<img align='right' src="https://github.com/InDevelopIn/InDevelopIn/blob/main/bg.jpg" width="350">
 
 
 ## About Us 🌐
